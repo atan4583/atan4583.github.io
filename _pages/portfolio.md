@@ -6,7 +6,7 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 ---
-
+Under construction ...
 {% assign loopindex = 0 %}
 {% for post in site.posts %}
   {% if post.categories contains 'Project' %}
@@ -37,5 +37,6 @@ classes: wide
 {% endfor %}
 
 {% if rowfinder != 0 %}
-</div>
+  <div>
+  </div>
 {% endif %}
