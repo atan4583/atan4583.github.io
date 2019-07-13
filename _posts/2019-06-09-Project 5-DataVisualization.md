@@ -1,7 +1,7 @@
 ---
 title: "Project 5-Loan Listing Dataset Analysis"
 date: 2019-06-09 00:00:00 +0000
-tags: [Data Wrangling, EDA, Data Visualization]
+tags: [Data Analysis]
 categories: [Project]
 excerpt: Perform data wrangling, EDA and on a subset of loan listings from Prosper, an online peer-to-peer lending business. From the subset of 6,123 listings between 1 July 2008 and 31 December 2009, examine selective attributes on borrower and loans, time series events to see their effects on loan listing distributions. Create a storyboard to showcase the findings in univariate, bivariate and multivariate visualizations.
 mathjax: "true"
