@@ -37,6 +37,5 @@ classes: wide
 {% endfor %}
 
 {% if rowfinder != 0 %}
-  <div>
   </div>
 {% endif %}
