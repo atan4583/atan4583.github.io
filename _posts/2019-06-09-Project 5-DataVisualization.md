@@ -5,7 +5,7 @@ tags: [Data Analysis]
 categories: [Project]
 excerpt: Perform data wrangling, EDA and on a subset of loan listings from Prosper, an online peer-to-peer lending business. From the subset of 6,123 listings between 1 July 2008 and 31 December 2009, examine selective attributes on borrower and loans, time series events to see their effects on loan listing distributions. Create a storyboard to showcase the findings in univariate, bivariate and multivariate visualizations.
 mathjax: "true"
-thumbnail: \images\Project5-loanDataAnalysis\p2p.jpg
+thumbnail: "/images/Project5-loanDataAnalysis/p2p.jpg"
 ---
 
 $$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
