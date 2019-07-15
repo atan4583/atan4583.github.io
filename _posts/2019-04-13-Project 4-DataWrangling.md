@@ -5,6 +5,7 @@ tags: [Data Wrangling]
 categories: [Project]
 excerpt: Gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. Showcase data wrangling results through analyses and visualizations.
 mathjax: "true"
+thumbnail: \images\Project4-tweetDataAnalysis\dogs.jpg
 ---
 
 $$\Rightarrow$$ <a href="\images\Project4-tweetDataAnalysis\wrangle_act_report.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
