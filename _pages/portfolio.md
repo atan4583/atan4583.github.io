@@ -38,4 +38,5 @@ classes: wide
 
 {% if rowfinder != 0 %}
   </div>
+  </div>
 {% endif %}
