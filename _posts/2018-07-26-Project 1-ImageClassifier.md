@@ -1,5 +1,5 @@
 ---
-title: "Project-Develop an Image Classifier with Deep Learning"
+title: "Project-Build an Image Classifier with Deep Learning"
 date: 2018-07-26 00:00:00 +0000
 tags: [Deep Learning]
 categories: [Project]
@@ -12,7 +12,7 @@ thumbnail: "/images/Project1-imgClassifier/flowers.jpg"
 Build a flower image classifier with a Pytorch pre-trained deep learning model. This project is part of the deliverables for my [AI Programming with python Nanodegree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) (AIPND) with Udacity.
 
 ## Dataset
-The data set contains images of flowers from 102 different species in [this dataset](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz) from Udacity AIPND program. Below is example images from the dataset.
+The data set contains images of flowers from 102 different species in [this dataset](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz) from Udacity AIPND program. Here are some example images from the dataset.
 
 ![png](/images/Project1-imgClassifier/samples.png)
 
