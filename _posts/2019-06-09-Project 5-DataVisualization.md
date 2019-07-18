@@ -11,7 +11,7 @@ thumbnail: "/images/Project5-loanDataAnalysis/p2p.jpg"
 $$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
 
 # Prosper Loan Dataset Exploration
-Explore loan data from Prosper with plots of single, two and more variables. Produce a short presentation to illustrate interesting properties, trends, and relationships discovered in the dataset. This project is part of the deliverables for my [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) with Udacity.
+Explore loan data from Prosper with plots of one, two and more variables. Produce a short presentation to illustrate interesting properties, trends, and relationships discovered in the dataset. This project is part of the deliverables for my [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) with Udacity.
 
 ## Dataset
 The data consists of 6,123 Prosper loan listings created between 1 July 2008 and 31 December 2009 from Prosper, an online peer-to-peer lending business. The data has 16 features

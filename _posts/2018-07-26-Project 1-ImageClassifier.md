@@ -20,10 +20,10 @@ Visit [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) to rea
 
 The dataset is split into three parts, training, validation, and testing. During training, we applied transformations such as random scaling, cropping, and flipping, to help the network generalize better and lead to better performance. The validation and testing sets were used to measure the model's performance on data not seen by the model during training.
 
-The input data was resized to 224x224 pixels to enable us to use a Pytorch pre-trained model to train the flower image classifier.
+The input data was resized to 224x224 pixels in order to use a Pytorch pre-trained model to train the flower image classifier.
 
 ## Process
-We used one of the pretrained models from `torchvision.models` to get the image features. Built and trained a new feed-forward classifier using those features, as summarized by the following steps:
+Use one of the pretrained models from `torchvision.models` to get the image features. Built and trained a new feed-forward classifier using those features, as summarized by the following steps:
 
 - Load and preprocess the image dataset
 - Load a [pre-trained network](http://pytorch.org/docs/master/torchvision/models.html)
@@ -32,7 +32,7 @@ We used one of the pretrained models from `torchvision.models` to get the image 
 - Track the loss and accuracy on the validation set to determine the best hyperparameters
 - Use the trained classifier to predict image content
 
-We first worked through a Jupyter notebook to implement the steps to build the classifier. After that we converted the notebook code into a pair of command line python applications, with one for use in training a new network and save the model as a checkpoint file (.pt), and the other, utilizing the checkpoint file to predict the class for an input flower image.
+First work through a Jupyter notebook to implement the steps to build the classifier. After that  convert the notebook code into a pair of command line python applications, with one for training a new network then saving the model as a checkpoint file (.pt), and the other, utilizing the checkpoint file to predict the class for an input flower image.
 
 ## Tool
 Jupter Notebook (Python)
