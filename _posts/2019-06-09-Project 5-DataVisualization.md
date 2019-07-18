@@ -11,15 +11,15 @@ thumbnail: "/images/Project5-loanDataAnalysis/p2p.jpg"
 $$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
 
 # Prosper Loan Dataset Exploration
-Explore loan data from Prosper with plots of one, two and more variables. Produce a short presentation to illustrate interesting properties, trends, and relationships discovered in the dataset. This project is part of the deliverables for my [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) with Udacity.
+Explore loan data from Prosper with plots of one, two and more variables. Produce a short presentation to illustrate interesting properties, trends, and relationships discovered in the dataset. This project is part of the deliverables for my <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002" target="_blank">Data Analyst Nanodegree</a> with Udacity.
 
 ## Dataset
 The data consists of 6,123 Prosper loan listings created between 1 July 2008 and 31 December 2009 from Prosper, an online peer-to-peer lending business. The data has 16 features
 (excluding two ID type variables for borrower ID and listing key), most of which are quantitative in nature but there are a few categorical ones as well.
 
-A data feature dictionary describing the variables is available [here](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554484977407000).
+A data feature dictionary describing the variables is available <a href="https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554484977407000" target="_blank">here</a>.
 
-The dataset for _**exploration**_ can be downloaded [here](https://drive.google.com/file/d/1SSRs1cna9JoYpQg0sox1d9swT01GEacR/view?usp=sharing), and the clean dataset for _**explanatory**_ purpose can be downloaded [here](https://drive.google.com/file/d/1WSURY1r0B4xh5RVV9asR473hxbGAePM-/view?usp=sharing).
+The dataset for _**exploration**_ can be downloaded <a href="https://drive.google.com/file/d/1SSRs1cna9JoYpQg0sox1d9swT01GEacR/view?usp=sharing" target="_blank">here</a>, and the clean dataset for _**explanatory**_ purpose can be downloaded <a href="https://drive.google.com/file/d/1WSURY1r0B4xh5RVV9asR473hxbGAePM-/view?usp=sharing" target="_blank">here</a>.
 
 ## Summary of Findings
 In the exploration, I focused on 6,123 listings between 1 July 2008 and 31 December 2009, and examined selective attributes on borrower and loans, time series events to see their effects on loan listing distributions.
@@ -66,7 +66,7 @@ panda, numpy, matplotlib, seaborn
 - readme.md
 - prosperLoanData_src.csv (for data wrangling use), prosperLoanData.csv (for exploration and explanatory use)
 
-See <a href="https://github.com/atan4583/dand-project-portfolio" target="_blank">code here</a>
+See <a href="https://github.com/atan4583/dand-project-portfolio" target="_blank">code here</a>.
 
 ***
 ## Acknowledgement

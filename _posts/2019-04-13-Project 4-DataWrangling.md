@@ -10,13 +10,13 @@ thumbnail: "/images/Project4-tweetDataAnalysis/dogs.jpg"
 
 $$\Rightarrow$$ <a href="\images\Project4-tweetDataAnalysis\wrangle_act_report.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
 
-# [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs) Twitter Feed Dataset Analysis
-Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. This project is part of the deliverables for my [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) with Udacity.
+# <a href="https://en.wikipedia.org/wiki/WeRateDogs" target="_blank">WeRateDogs</a> Twitter Feed Dataset Analysis
+Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. This project is part of the deliverables for my <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002" target="_blank">Data Analyst Nanodegree</a> with Udacity.
 
 ## DataSet
 Gather data from these 3 sources:
--  WeRateDogs Twitter archive. This contains 5000+ basic tweet data about dog rating, name, and "stage"
--  tweet image predictions from [Udacity site](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv). This file contains dog breed prediction results (from a Neural Network classifier) for every dog images from the WeRateDogs Twitter archive.
+-  WeRateDogs Twitter archive. This contains 5000+ basic tweet data about dog rating, name, and "stage".
+-  tweet image predictions from <a href="https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv" target="_blank">Udacity site</a>. This file contains dog breed prediction results (from a Neural Network classifier) for every dog images from the WeRateDogs Twitter archive.
 -  Twitter API tweepy. Use this API to query additional data (in JSON format) for each tweet ID in the WeRateDogs Twitter archive.
 
 ## Process
@@ -40,4 +40,4 @@ panda, numpy, matplotlib, seaborn, tweepy, json, requests
 -  act_report.pdf, act_report.html
 -  twitter_archive_enhanced.csv, image_predictions.tsv, tweet_json.txt, twitter_archive_master.csv, twitter_archive.db
 
-See [code here](https://github.com/atan4583/dand-project-portfolio).
+See <a href="https://github.com/atan4583/dand-project-portfolio" target="_blank">code here</a>.
