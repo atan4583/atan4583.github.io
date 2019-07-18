@@ -1,6 +1,6 @@
 ---
 title: "Project-Wrangle and Analyze Twitter Data Feeds"
-date: 2019-06-09 00:00:00 +0000
+date: 2019-04-13 00:00:00 +0000
 tags: [Data Wrangling]
 categories: [Project]
 excerpt: Gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. Showcase data wrangling results through analyses and visualizations.
