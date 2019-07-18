@@ -66,7 +66,7 @@ panda, numpy, matplotlib, seaborn
 - readme.md
 - prosperLoanData_src.csv (for data wrangling use), prosperLoanData.csv (for exploration and explanatory use)
 
-See [code here](https://github.com/atan4583/dand-project-portfolio).
+See <a href="https://github.com/atan4583/dand-project-portfolio" target="_blank">code here</a>
 
 ***
 ## Acknowledgement
