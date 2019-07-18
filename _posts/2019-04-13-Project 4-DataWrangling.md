@@ -11,7 +11,7 @@ thumbnail: "/images/Project4-tweetDataAnalysis/dogs.jpg"
 $$\Rightarrow$$ <a href="\images\Project4-tweetDataAnalysis\wrangle_act_report.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
 
 # [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs) Twitter Feed Dataset Analysis
-Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
+Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. This project is part of the deliverables for my [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) with Udacity.
 
 ## DataSet
 Data are gathered from 3 sources:
@@ -39,3 +39,5 @@ panda, numpy, matplotlib, seaborn, tweepy, json, requests
 -  wrangle_report.pdf, wrangle_report.html
 -  act_report.pdf, act_report.html
 -  twitter_archive_enhanced.csv, image_predictions.tsv, tweet_json.txt, twitter_archive_master.csv, twitter_archive.db
+
+See [code here](https://github.com/atan4583/dand-project-portfolio).

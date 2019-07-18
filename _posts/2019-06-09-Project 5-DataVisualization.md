@@ -10,8 +10,8 @@ thumbnail: "/images/Project5-loanDataAnalysis/p2p.jpg"
 
 $$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
 
-
 # Prosper Loan Dataset Exploration
+Explore loan data from Prosper with plots of single, two and more variables. Produce a short presentation to illustrate interesting properties, trends, and relationships discovered in the dataset. This project is part of the deliverables for my [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) with Udacity.
 
 ## Dataset
 The data consists of 6,123 Prosper loan listings created between 1 July 2008 and 31 December 2009 from Prosper, an online peer-to-peer lending business. The data has 16 features
@@ -21,13 +21,11 @@ A data feature dictionary describing the variables is available [here](https://w
 
 The dataset for _**exploration**_ can be downloaded [here](https://drive.google.com/file/d/1SSRs1cna9JoYpQg0sox1d9swT01GEacR/view?usp=sharing), and the clean dataset for _**explanatory**_ purpose can be downloaded [here](https://drive.google.com/file/d/1WSURY1r0B4xh5RVV9asR473hxbGAePM-/view?usp=sharing).
 
-
 ## Summary of Findings
 In the exploration, we focused on 6,123 listings between 1 July 2008 and 31 December 2009, and examined selective attributes on borrower and loans, time series events to see their effects on loan listing distributions.
 
 In univariate exploration, we found:
 -  distributions of listing categories, borrower professions and states tell us majority of listings were for debt consolidation, most of the borrowers held professional jobs and residents of CA had the highest number of listings.
-
 
 - distribution listing amount shows majority of loan listings were below $3000 in values, employment status distribution shows a combined 97.02% of borrowers were in full, self or part time employment statuses. Yet listings in charged off and defaulted statuses is significant at 26.14% combined.
 
@@ -36,15 +34,11 @@ In bivariate exploration, we observed that listing amount distribution is concen
 In multivariate exploration, we learned adding a related new feature to a bivariate distribution does result in the related features strengthening each other. For examples,
 - adding a third feature _**Borrower APR**_ to the bivariate distribution of listing amount and credit ranking adds visibility to varying concentrations of listing amounts at different APR rates.
 
-
 - adding a fourth feature _**Listing Category**_ to multivariate distribution of listing amount and borrower APR by credit ranking enables visibility to segmentation of borrower APR on listing amount and credit ranking by listing category.
-
 
 - the three features _**Time**_, _**Principal borrowed**_ and _**Delinquent amount**_ enhance each other and yield a clear trend on principal borrowed and linquent amount between 1 July 2008 and 31 December 2009.
 
-
 - the three features _**Listing amount**_, _**Credit ranking**_ and _**Period**_ enhance each other and enable comparison of listing amount and credit ranking distribution in two different time periods.
-
 
 - the three feature _**Listing amount**_, _**Listing category**_ and _**Period**_ enhance each other and add visibility to listing amount and listing category distribution in two different time periods.
 
@@ -58,6 +52,21 @@ We start with introducing visuals of listing distributions associated with borro
 Next, we demonstrate how adding an additional attribute to univariate listing distributions can result in variations in listing distributions.
 
 Lastly, we create multivariate visuals by adding APR and time series attributes to bivariate listing distributions, show casing the effects of these attributes on multivariate listing distributions.
+
+## Tool
+Jupter Notebook (Python)
+
+## Programming libraries
+panda, numpy, matplotlib, seaborn
+
+## Artifact
+- Communicate_Data_Findings-Prosper_Loan_Part1.ipynb, Communicate_Data_Findings-Prosper_Loan_Part1.html
+- Communicate_Data_Findings-Prosper_Loan_Part2.ipynb, Communicate_Data_Findings-Prosper_Loan_Part2.html
+- Communicate_Data_Findings-Prosper_Loan_Part2.slides.html (_**slide show**_)
+- readme.md
+- prosperLoanData_src.csv (for data wrangling use), prosperLoanData.csv (for exploration and explanatory use)
+
+See [code here](https://github.com/atan4583/dand-project-portfolio).
 
 ***
 ## Acknowledgement
