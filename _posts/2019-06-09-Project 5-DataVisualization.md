@@ -8,7 +8,7 @@ mathjax: "true"
 thumbnail: "/images/Project5-loanDataAnalysis/p2p.jpg"
 ---
 
-$$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit `Auto Play` button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
+$$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**`Auto Play`**_ button to suspend/resume slide show or _**`Manual Play`**_ button to advance slide page manually)
 
 # Prosper Loan Dataset Exploration
 Explore loan data from Prosper with plots of one, two and more variables. Produce a short presentation to illustrate interesting properties, trends, and relationships discovered in the dataset. This project is part of the deliverables for my <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002" target="_blank">Data Analyst Nanodegree</a> with Udacity.
@@ -29,18 +29,18 @@ In univariate exploration, I found:
 
 - distribution listing amount shows majority of loan listings were below $3000 in values, employment status distribution shows a combined 97.02% of borrowers were in full, self or part time employment statuses. Yet listings in charged off and defaulted statuses is significant at 26.14% combined.
 
-In bivariate exploration, I observed that listing amount distribution is concentrated in lower end of loan values, well below $10,000. This is consistent with my finding in univariate exploration. I also observed that adding a second feature to previously explored features can cause distribution trends to vary, as seen in the two scenarios where `Occupation` and _**`Credit`**_ Ranking were added in turn to listing distribution in the top five borrower states. In both cases, the listing distributions vary from their corresponding distributions in univariate exploration.
+In bivariate exploration, I observed that listing amount distribution is concentrated in lower end of loan values, well below $10,000. This is consistent with my finding in univariate exploration. I also observed that adding a second feature to previously explored features can cause distribution trends to vary, as seen in the two scenarios where _**`Occupation`**_ and _**`Credit`**_ Ranking were added in turn to listing distribution in the top five borrower states. In both cases, the listing distributions vary from their corresponding distributions in univariate exploration.
 
 In multivariate exploration, I found adding a related new feature to a bivariate distribution did result in the related features strengthening each other. For examples,
-- adding a third feature _**Borrower APR**_ to the bivariate distribution of listing amount and credit ranking adds visibility to varying concentrations of listing amounts at different APR rates.
+- adding a third feature _**`Borrower APR`**_ to the bivariate distribution of listing amount and credit ranking adds visibility to varying concentrations of listing amounts at different APR rates.
 
-- adding a fourth feature _**Listing Category**_ to multivariate distribution of listing amount and borrower APR by credit ranking enables visibility to segmentation of borrower APR on listing amount and credit ranking by listing category.
+- adding a fourth feature _**`Listing Category`**_ to multivariate distribution of listing amount and borrower APR by credit ranking enables visibility to segmentation of borrower APR on listing amount and credit ranking by listing category.
 
-- the three features _**Time**_, _**Principal borrowed**_ and _**Delinquent amount**_ enhance each other and yield a clear trend on principal borrowed and linquent amount between 1 July 2008 and 31 December 2009.
+- the three features _**`Time`**_, _**`Principal borrowed`**_ and _**`Delinquent amount`**_ enhance each other and yield a clear trend on principal borrowed and linquent amount between 1 July 2008 and 31 December 2009.
 
-- the three features _**Listing amount**_, _**Credit ranking**_ and _**Period**_ enhance each other and enable comparison of listing amount and credit ranking distribution in two different time periods.
+- the three features _**`Listing amount`**_, _**`Credit ranking`**_ and _**`Period`**_ enhance each other and enable comparison of listing amount and credit ranking distribution in two different time periods.
 
-- the three feature _**Listing amount**_, _**Listing category**_ and _**Period**_ enhance each other and add visibility to listing amount and listing category distribution in two different time periods.
+- the three feature _**`Listing amount`**_, _**`Listing category`**_ and _**`Period`**_ enhance each other and add visibility to listing amount and listing category distribution in two different time periods.
 
 Through univariate, bivariate and multivariate explorations, I was able to look at features pertaining to Prosper borrowers, loan listings and time periods in the dataset to study their influences on Prosper loan distributions, and see the effect of the three historical significant events on Prosper loan listings between 1 July 2008 and 31 December 2009.
 

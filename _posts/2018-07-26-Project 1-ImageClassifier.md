@@ -32,12 +32,12 @@ Use one of the pretrained models from `torchvision.models` to get the image feat
 - Track the loss and accuracy on the validation set to determine the best hyperparameters
 - Use the trained classifier to predict image content
 
-First work through a Jupyter notebook to implement the steps to build the classifier. After that  convert the notebook code into a pair of command line python applications, with one for training a new network then saving the model as a checkpoint file (.pt), and the other, utilizing the checkpoint file to predict the class for an input flower image.
+First work through a Jupyter notebook to implement the steps to build the classifier. After that convert the notebook code into a pair of command line python applications, with one for training a new network then saving the model as a checkpoint file (.pt), and the other, utilizing the checkpoint file to predict the class for an input flower image.
 
 ## Tool
 Jupter Notebook (Python)
 
-## Programming libraries
+## Programming library
 torch, torchvision, numpy, PIL, python
 
 ## Artifact
