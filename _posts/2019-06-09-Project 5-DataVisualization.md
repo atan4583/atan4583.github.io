@@ -1,5 +1,5 @@
 ---
-title: "Project 5-Loan Listing Dataset Analysis"
+title: "Project-Loan Listing Dataset Analysis"
 date: 2019-04-13 00:00:00 +0000
 tags: [Data Analysis]
 categories: [Project]
