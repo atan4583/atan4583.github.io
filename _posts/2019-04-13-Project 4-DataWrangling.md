@@ -14,7 +14,7 @@ $$\Rightarrow$$ <a href="\images\Project4-tweetDataAnalysis\wrangle_act_report.s
 Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. This project is part of the deliverables for my [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) with Udacity.
 
 ## DataSet
-Data are gathered from 3 sources:
+Data was gathered from 3 sources:
 -  WeRateDogs Twitter archive. This contains 5000+ basic tweet data about dog rating, name, and "stage"
 -  tweet image predictions from [Udacity site](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv). This file contains dog breed prediction results (from a Neural Network classifier) for every dog images from the WeRateDogs Twitter archive.
 -  Twitter API tweepy. Use this API to query additional data (in JSON format) for each tweet ID in the WeRateDogs Twitter archive.

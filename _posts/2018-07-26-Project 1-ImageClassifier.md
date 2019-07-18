@@ -1,5 +1,5 @@
 ---
-title: "Project-Develope an Image Classifier with Deep Learning"
+title: "Project-Develop an Image Classifier with Deep Learning"
 date: 2018-07-26 00:00:00 +0000
 tags: [Deep Learning]
 categories: [Project]
