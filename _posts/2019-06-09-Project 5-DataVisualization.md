@@ -8,7 +8,7 @@ mathjax: "true"
 thumbnail: "/images/Project5-loanDataAnalysis/p2p.jpg"
 ---
 
-$$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**Auto Play**_ button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
+$$\Rightarrow$$ <a href="\images\Project5-loanDataAnalysis\Prosper_Loan.slides.html" target="_blank"><b>Slide Show</b></a> (Hit `Auto Play` button to suspend/resume slide show or _**Manual Play**_ button to advance slide page manually)
 
 # Prosper Loan Dataset Exploration
 Explore loan data from Prosper with plots of one, two and more variables. Produce a short presentation to illustrate interesting properties, trends, and relationships discovered in the dataset. This project is part of the deliverables for my <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002" target="_blank">Data Analyst Nanodegree</a> with Udacity.
@@ -19,7 +19,7 @@ The data consists of 6,123 Prosper loan listings created between 1 July 2008 and
 
 A data feature dictionary describing the variables is available <a href="https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554484977407000" target="_blank">here</a>.
 
-The dataset for _**exploration**_ can be downloaded <a href="https://drive.google.com/file/d/1SSRs1cna9JoYpQg0sox1d9swT01GEacR/view?usp=sharing" target="_blank">here</a>, and the clean dataset for _**explanatory**_ purpose can be downloaded <a href="https://drive.google.com/file/d/1WSURY1r0B4xh5RVV9asR473hxbGAePM-/view?usp=sharing" target="_blank">here</a>.
+The dataset for `exploration` can be downloaded <a href="https://drive.google.com/file/d/1SSRs1cna9JoYpQg0sox1d9swT01GEacR/view?usp=sharing" target="_blank">here</a>, and the clean dataset for `explanatory` purpose can be downloaded <a href="https://drive.google.com/file/d/1WSURY1r0B4xh5RVV9asR473hxbGAePM-/view?usp=sharing" target="_blank">here</a>.
 
 ## Summary of Findings
 In the exploration, I focused on 6,123 listings between 1 July 2008 and 31 December 2009, and examined selective attributes on borrower and loans, time series events to see their effects on loan listing distributions.
@@ -29,7 +29,7 @@ In univariate exploration, I found:
 
 - distribution listing amount shows majority of loan listings were below $3000 in values, employment status distribution shows a combined 97.02% of borrowers were in full, self or part time employment statuses. Yet listings in charged off and defaulted statuses is significant at 26.14% combined.
 
-In bivariate exploration, I observed that listing amount distribution is concentrated in lower end of loan values, well below $10,000. This is consistent with my finding in univariate exploration. I also observed that adding a second feature to previously explored features can cause distribution trends to vary, as seen in the two scenarios where _**Occupation**_ and _**Credit**_ Ranking were added in turn to listing distribution in the top five borrower states. In both cases, the listing distributions vary from their corresponding distributions in univariate exploration.
+In bivariate exploration, I observed that listing amount distribution is concentrated in lower end of loan values, well below $10,000. This is consistent with my finding in univariate exploration. I also observed that adding a second feature to previously explored features can cause distribution trends to vary, as seen in the two scenarios where `Occupation` and _**Credit**_ Ranking were added in turn to listing distribution in the top five borrower states. In both cases, the listing distributions vary from their corresponding distributions in univariate exploration.
 
 In multivariate exploration, I found adding a related new feature to a bivariate distribution did result in the related features strengthening each other. For examples,
 - adding a third feature _**Borrower APR**_ to the bivariate distribution of listing amount and credit ranking adds visibility to varying concentrations of listing amounts at different APR rates.
@@ -56,13 +56,13 @@ Lastly, I created multivariate visuals by adding APR and time series attributes 
 ## Tool
 Jupter Notebook (Python)
 
-## Programming libraries
+## Programming library
 panda, numpy, matplotlib, seaborn
 
 ## Artifact
 - Communicate_Data_Findings-Prosper_Loan_Part1.ipynb, Communicate_Data_Findings-Prosper_Loan_Part1.html
 - Communicate_Data_Findings-Prosper_Loan_Part2.ipynb, Communicate_Data_Findings-Prosper_Loan_Part2.html
-- Communicate_Data_Findings-Prosper_Loan_Part2.slides.html (_**slide show**_)
+- Communicate_Data_Findings-Prosper_Loan_Part2.slides.html (`slide show`)
 - readme.md
 - prosperLoanData_src.csv (for data wrangling use), prosperLoanData.csv (for exploration and explanatory use)
 
