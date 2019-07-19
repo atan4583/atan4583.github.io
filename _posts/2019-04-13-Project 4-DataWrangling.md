@@ -1,5 +1,5 @@
 ---
-title: "Project-Wrangle and Analyze Twitter Data Feeds"
+title: "Project - Wrangle and Analyze Twitter Data Feeds"
 date: 2019-04-13 00:00:00 +0000
 tags: [Data Wrangling]
 categories: [Project]
@@ -11,7 +11,7 @@ thumbnail: "/images/Project4-tweetDataAnalysis/dogs.jpg"
 $$\Rightarrow$$ <a href="\images\Project4-tweetDataAnalysis\wrangle_act_report.slides.html" target="_blank"><b>Slide Show</b></a> (Hit _**`Auto Play`**_ button to suspend/resume slide show or _**`Manual Play`**_ button to advance slide page manually)
 
 # <a href="https://en.wikipedia.org/wiki/WeRateDogs" target="_blank">WeRateDogs</a> Twitter Feed Dataset Analysis
-Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. This project is part of the deliverables for my <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002" target="_blank">Data Analyst Nanodegree</a> with Udacity.
+Wrangle WeRateDogs Twitter feed data to create interesting and trustworthy analyses and visualizations. This project is part of the deliverables for my <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002" target="_blank">Data Analyst Nanodegree</a> with Udacity.
 
 ## DataSet
 Gather data from these 3 sources:
