@@ -8,7 +8,7 @@ mathjax: "true"
 thumbnail: "/images/Project0-FCCcert/FCC.jpg"
 ---
 
-# Build a Collection of Weeny Web Front End Apps
+# Develop Miniature Web Front End Apps
 Use the common web front end development tools and concepts to build a collection of miniature web apps. This project is part of deliverables for my <a href="https://www.freecodecamp.org/certification/atan4583/legacy-front-end" target="_blank">Web Front End Certification</a> with <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>, a free online nonprofit learning place for learners to acquire and improve on their coding skill.
 
 ## Process
