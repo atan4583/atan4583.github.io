@@ -1,8 +1,8 @@
 ---
-title: "Project - Build a Collection of Miniature Web Front End Apps"
+title: "Build a Collection of Miniature Web Front End Apps"
 date: 2017-05-30 00:00:00 +0000
 tags: [Web FrontEnd]
-categories: [Project]
+categories: [Post]
 excerpt: Build a collection of miniature web front end apps using HTML, CSS, JavaScript Algorithms, Data Structures, JQuery and Responsive Web Design Libraries.
 mathjax: "true"
 thumbnail: "/images/Project0-FCCcert/FCC.jpg"
@@ -19,7 +19,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 
 ![png1](/images/Project0-FCCcert/simonGame.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/RVzgOW" target="_blank"><b>Simon Game</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/RVzgOW" target="_blank"><b>Simon Game</b></a> show.
 
 Fulfill the following user stories:
   - I am presented with a random series of button presses.
@@ -38,7 +38,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 
 ![png2](/images/Project0-FCCcert/TicTacToe.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/NjZbxo/" target="_blank"><b>Tic Tac Toe Game</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/NjZbxo/" target="_blank"><b>Tic Tac Toe Game</b></a> show.
 
 Fulfill the following user stories:
   - I can play a game of Tic Tac Toe with the computer.
@@ -48,11 +48,11 @@ Fulfill the following user stories:
 See <a href="https://github.com/atan4583/fcc-webfe-portfolio/tree/master/Build%20A%20Tic%20Tac%20Toe%20Game" target="_blank">code here</a>.
 
 ### 3. Build A Pomodoro Clock
-Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/freeCodeCamp/full/aNyxXR" target="_blank">Build a Pomodoro Clock</a>.
+Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/freeCodeCamp/full/aNyxXR" target="_blank">Pomodoro Clock</a>.
 
 ![png3](/images/Project0-FCCcert/pomodoro.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/QvRopp/" target="_blank"><b>Pomodoro Clock</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/QvRopp/" target="_blank"><b>Pomodoro Clock</b></a> show.
 
 Fulfill the following user stories:
   - I can start a 25 minute pomodoro, and the timer will go off once 25 minutes has elapsed.
@@ -62,11 +62,11 @@ Fulfill the following user stories:
 See <a href="https://github.com/atan4583/fcc-webfe-portfolio/tree/master/Build%20A%20Pomodoro%20Clock" target="_blank">code here</a>.
 
 ### 4. Build A JavaScript Calculator
-Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/rLJZrA" target="_blank">Build A JavaScript Calculator</a>.
+Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/rLJZrA" target="_blank">JavaScript Calculator</a>.
 
 ![png4](/images/Project0-FCCcert/jscalculator.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/LyoBrK/" target="_blank"><b>Javascript Calculator</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/LyoBrK/" target="_blank"><b>Javascript Calculator</b></a> show.
 
 Fulfill the following user stories:
   - I can add, substract, multiply and divide two numbers.
@@ -76,11 +76,11 @@ Fulfill the following user stories:
 See <a href="https://github.com/atan4583/fcc-webfe-portfolio/tree/master/Build%20A%20JavaScript%20Calculator" target="_blank">code here</a>.
 
 ### 5. Use the Twitchtv JSON API
-Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/Myvqmo/" target="_blank">Use the Twitchtv JSON API</a>.
+Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/Myvqmo/" target="_blank">Twitchtv JSON API</a>.
 
 ![png5](/images/Project0-FCCcert/twitchtv.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/BRrOvE/" target="_blank"><b>Twitchtv JSON API</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/BRrOvE/" target="_blank"><b>Twitchtv JSON API</b></a> show.
 
 Fulfill the following user stories:
   - I can see whether Free Code Camp is currently streaming on Twitch.tv.
@@ -91,11 +91,11 @@ Fulfill the following user stories:
 See <a href="https://github.com/atan4583/fcc-webfe-portfolio/tree/master/Use%20the%20Twitchtv%20JSON%20API" target="_blank">code here</a>.
 
 ### 6. Build a Wikipedia Viewer
-Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/wGqEga/" target="_blank">Build a Wikipedia Viewer</a>.
+Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/wGqEga/" target="_blank">Wikipedia Viewer</a>.
 
 ![png6](/images/Project0-FCCcert/wikipediaviewer.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/wdmvEX/" target="_blank"><b>Wikipedia Viewer</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/wdmvEX/" target="_blank"><b>Wikipedia Viewer</b></a> show.
 
 Fulfill the following user stories:
   - I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
@@ -104,11 +104,11 @@ Fulfill the following user stories:
 See <a href="https://github.com/atan4583/fcc-webfe-portfolio/tree/master/Build%20a%20Wikipedia%20Viewer" target="_blank">code here</a>.
 
 ### 7. Show the Local Weather
-Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="http://codepen.io/FreeCodeCamp/full/bELRjV" target="_blank">Show the Local Weather</a>.
+Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="http://codepen.io/FreeCodeCamp/full/bELRjV" target="_blank">Local Weather App</a>.
 
 ![png7](/images/Project0-FCCcert/localweather.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/VbzxVe" target="_blank"><b>Local Weather App</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/VbzxVe" target="_blank"><b>Local Weather App</b></a> show.
 
 Fulfill the following user stories:
   - I can see the weather in my current location.
@@ -118,11 +118,11 @@ Fulfill the following user stories:
 See <a href="https://github.com/atan4583/fcc-webfe-portfolio/tree/master/Show%20the%20Local%20Weather" target="_blank">code here</a>.
 
 ### 8. Build a Personal Portfolio Webpage
-Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/YqLyXB" target="_blank">Build a Personal Portfolio Webpage</a>.
+Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/YqLyXB" target="_blank">Personal Portfolio Webpage</a>.
 
 ![png8](/images/Project0-FCCcert/personalport.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="http://codepen.io/atan4583/full/mWGvmJ/" target="_blank"><b>Build a Personal Portfolio Webpage</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="http://codepen.io/atan4583/full/mWGvmJ/" target="_blank"><b>Build a Personal Portfolio Webpage</b></a> show.
 
 Fulfill the following user stories:
   - I can access all of the portfolio webpage's content just by scrolling.
@@ -133,13 +133,13 @@ Fulfill the following user stories:
 See <a href="https://github.com/atan4583/fcc-webfe-portfolio/tree/master/Build%20a%20Personal%20Portfolio%20Webpage" target="_blank">code here</a>.
 
 ### 9. Build a Tribute Page
-Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/NNvBQW" target="_blank">Build a Tribute Page</a>.
+Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is functionally similar to this <a href="https://codepen.io/FreeCodeCamp/full/NNvBQW" target="_blank">Tribute Page</a>.
 
 ![png9](/images/Project0-FCCcert/tributepg.png)
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/GWdydj" target="_blank"><b>Build a Tribute Page (English)</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/GWdydj" target="_blank"><b>Build a Tribute Page (English)</b></a> show.
 
-$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/PpRmBX" target="_blank"><b>Build a Tribute Page (Deutsch)</b></a>show.
+$$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/PpRmBX" target="_blank"><b>Build a Tribute Page (Deutsch)</b></a> show.
 
 Fulfill the following user stories:
   - I can view a tribute page with an image and text
