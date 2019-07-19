@@ -20,6 +20,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/RVzgOW" target="_blank"><b>Simon Game</b></a> show.
 
 ![png1](/images/Project0-FCCcert/simonGame.png)
+
 Fulfill the following user stories:
   - I am presented with a random series of button presses.
   - Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step.
@@ -38,6 +39,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/NjZbxo/" target="_blank"><b>Tic Tac Toe Game</b></a> show.
 
 ![png2](/images/Project0-FCCcert/TicTacToe.png)
+
 Fulfill the following user stories:
   - I can play a game of Tic Tac Toe with the computer.
   - My game will reset as soon as it's over so I can play again.
@@ -51,6 +53,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/QvRopp/" target="_blank"><b>Pomodoro Clock</b></a> show.
 
 ![png3](/images/Project0-FCCcert/pomodoro.png)
+
 Fulfill the following user stories:
   - I can start a 25 minute pomodoro, and the timer will go off once 25 minutes has elapsed.
   - I can reset the clock for my next pomodoro.
@@ -64,6 +67,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/LyoBrK/" target="_blank"><b>Javascript Calculator</b></a> show.
 
 ![png4](/images/Project0-FCCcert/jscalculator.png)
+
 Fulfill the following user stories:
   - I can add, substract, multiply and divide two numbers.
   - I can clear the input field with a clear button.
@@ -77,6 +81,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/BRrOvE/" target="_blank"><b>Twitchtv JSON API</b></a> show.
 
 ![png5](/images/Project0-FCCcert/twitchtv.png)
+
 Fulfill the following user stories:
   - I can see whether Free Code Camp is currently streaming on Twitch.tv.
   - I can click the status output and be sent directly to the Free Code Camp's Twitch.tv channel.
@@ -91,6 +96,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/wdmvEX/" target="_blank"><b>Wikipedia Viewer</b></a> show.
 
 ![png6](/images/Project0-FCCcert/wikipediaviewer.png)
+
 Fulfill the following user stories:
   - I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
   - I can click a button to see a random Wilipedia entry.
@@ -103,6 +109,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/VbzxVe" target="_blank"><b>Local Weather App</b></a> show.
 
 ![png7](/images/Project0-FCCcert/localweather.png)
+
 Fulfill the following user stories:
   - I can see the weather in my current location.
   - I can see a different icon or background on the weather.
@@ -116,6 +123,7 @@ Buid a <a href="https://codepen.io" target="_blank">CodePen.io</a> app that is f
 $$\Rightarrow$$ _**`live`**_ <a href="http://codepen.io/atan4583/full/mWGvmJ/" target="_blank"><b>Build a Personal Portfolio Webpage</b></a> show.
 
 ![png8](/images/Project0-FCCcert/personalport.png)
+
 Fulfill the following user stories:
   - I can access all of the portfolio webpage's content just by scrolling.
   - I can click different buttons that will take me to the portfolio creator's different social media pages.
@@ -132,6 +140,7 @@ $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/GWdydj" t
 $$\Rightarrow$$ _**`live`**_ <a href="https://codepen.io/atan4583/full/PpRmBX" target="_blank"><b>Build a Tribute Page (Deutsch)</b></a> show.
 
 ![png9](/images/Project0-FCCcert/tributepg.png)
+
 Fulfill the following user stories:
   - I can view a tribute page with an image and text
   - I can click on a link that will take me to an external website with further information on the topic.
