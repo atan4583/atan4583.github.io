@@ -1,5 +1,5 @@
 ---
-title: "Project - Wrangle and Analyze Twitter Data Feeds"
+title: "Project - Wrangle and Analyze Twitter Feed Data"
 date: 2019-04-13 00:00:00 +0000
 tags: [Data Wrangling]
 categories: [Project]
