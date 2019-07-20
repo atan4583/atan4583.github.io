@@ -1,4 +1,4 @@
-This project created my personal site for hosting on my <a href="https://atan4583.github.io/" target="_blank">GitHub Pages</a> and used the Minimal Mistake Jekyll theme by <a href="https://github.com/mmistakes" target="_blank">Michael Rose</a>, please read on below for more information about this wonderful theme. :sparkles:
+This project created my personal site for hosting on my [GitHub Pages](https://atan4583.github.io/) and used the Minimal Mistake Jekyll theme by [Michael Rose](https://github.com/mmistakes), please read on below for more information about this wonderful theme. :sparkles:
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
@@ -9,11 +9,11 @@ This project created my personal site for hosting on my <a href="https://atan458
 
 Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
-**If you enjoy this theme, please consider support <a href="https://www.paypal.me/mmistakes" target="_blank">Michael Rose</a> to continue developing and maintaining it.**
+**If you enjoy this theme, please consider support [Michael Rose](https://www.paypal.me/mmistakes) to continue developing and maintaining it.**
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
 
-**Note:** The theme uses the <a href="https://github.com/benbalter/jekyll-include-cache" target="_blank">jekyll-include-cache</a> plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
+**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
 
 ## Notable features
 
@@ -22,10 +22,10 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 - Support for Jekyll's built-in Sass/SCSS preprocessor.
 - Nine different skins (color variations).
 - Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for <a href="https://dev.twitter.com/cards/overview" target="_blank">Twitter Cards</a> and <a href="http://ogp.me/" target="_blank">Open Graph</a>.
-- Optional <a href="https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers" target="_blank">header images</a>, <a href="https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars" target="_blank">custom sidebars</a>, <a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents" target="_blank">table of contents</a>, <a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" target="_blank">galleries</a>, related posts, <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta" target="_blank">breadcrumb links</a>, <a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list" target="_blank">navigation lists</a>, and more.
-- Commenting support (powered by <a href="https://disqus.com/" target="_blank">Disqus</a>, <a href="https://developers.facebook.com/docs/plugins/comments" target="_blank">Facebook</a>, Google+, <a href="https://www.discourse.org/" target="_blank">Discourse</a>, static-based via <a href="https://staticman.net/" target="_blank">Staticman</a>, and <a href="https://utteranc.es/" target="_blank">utterances</a>).
-- <a href="https://www.google.com/analytics/" target="_blank">Google Analytics</a> support.
+- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/).
+- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
+- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), and [utterances](https://utteranc.es/).
+- [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
 
 ## Skins (color variations)
@@ -72,6 +72,6 @@ Additional sample posts are available under [posts archive][year-archive] on the
 ---
 ## Installation, Usage, Contributing, Development, Credits and License
 
-Please see <a href="https://github.com/mmistakes/minimal-mistakes" target="_blank">here</a> for full information and detailed instructions.
+Please see [here](https://github.com/mmistakes/minimal-mistakes) for full information and detailed instructions.
 
 ---
