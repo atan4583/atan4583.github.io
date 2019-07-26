@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Audrey S Tan"
+title                    : "Personal Site"
 title_separator          : "|"
 name                     : "Audrey S Tan"
 description              : "My personal data and web project portfolio"
