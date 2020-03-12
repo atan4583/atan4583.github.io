@@ -74,6 +74,7 @@ The new AWS cloud infrastructure comes with these benefits:
 ## Cloud Infrastruture Operation Workflow
 ![png](/images/Project7-aiAppOnAWS/opswf.png)
 RNN Sentiment Prediction App Operation:
+
    a. User submits a sentiment prediction request thru website UI and receives a result
 
    - User approves the prediction result, the approved result is written to the DynamoDB
