@@ -11,7 +11,7 @@ thumbnail: "/images/Project7-aiAppOnAWS/Rnn.png"
 $$\Rightarrow$$ <a href="http://ai-frontend.s3-website-us-west-2.amazonaws.com/" target="_blank"><b>Project Website</b></a>
 
 # Project Information
-This project transforms the original infrastructure of an AI sentiment prediction app (trained on the RNN model) to an AWS cloud leveraging various AWS cloud stack concepts covered in Phase I of <a href="https://github.com/bertelsmann-cloud-challenge-collaborate/ai-projpage/blob/master/assets/BertelsmannChallenge.png" target="_blank"><b>Udacity | Bertelsmann Technical Scholoarship Cloud Track Challenge</b></a>, i.e. S3, Lambda, Elastic Load Balancer, Auto Scaling Group, Cloudformation and IAM; as well as advanced concepts like Serverless Framework, CI/CD, Docker, API Gateway, ECS, DockerHub, DynamoDB and Microservices.
+This project transforms the original infrastructure of an AI sentiment prediction app (trained on the RNN model) to an AWS cloud leveraging various AWS cloud stack concepts covered in Phase I of Udacity | Bertelsmann Technical Scholoarship Cloud Track Challenge, i.e. S3, Lambda, Elastic Load Balancer, Auto Scaling Group, Cloudformation and IAM; as well as advanced concepts like Serverless Framework, CI/CD, Docker, API Gateway, ECS, DockerHub, DynamoDB and Microservices.
 
 ![png](/images/Project7-aiAppOnAWS/cicdworkflow.png)
 
