@@ -28,21 +28,21 @@ There team members from Phase I of the Cloud Track Challenge:
    2. The RNN model returns a label (e.g. guilt) representing the predicted sentiment, which user can approve or revise
 
 ![png](/images/Project7-aiAppOnAWS/UC1b.png)
-   3. User clicks `Approve` button to accept the prediction result. The result is recorded to the DynamoDB
+   User clicks `Approve` button to accept the prediction result. The result is recorded to the DynamoDB
 
 ### Scenario II
 ![png](/images/Project7-aiAppOnAWS/UC2a.png)
-   1. The RNN model prediction result returned does not quite match the user’s expectation. The user can click one of the seven available labels to override the returned result
+   The RNN model prediction result returned does not quite match the user’s expectation. The user can click one of the seven available labels to override the returned result
 
 ![png](/images/Project7-aiAppOnAWS/UC2b.png)
-   2. User clicks ‘joy’ label to override the returned result ‘sadness’. The revised result is recorded to the DynamoDB
+   User clicks ‘joy’ label to override the returned result ‘sadness’. The revised result is recorded to the DynamoDB
 
 ### Scenario III
 ![png](/images/Project7-aiAppOnAWS/UC3a.png)
-   1. All previously approved and revised prediction results are stored in the DynamoDB. The data can be exported to a csv file from the Web UI as a new dataset for retraining the RNN Sentiment Prediction model
+   All previously approved and revised prediction results are stored in the DynamoDB. The data can be exported to a csv file from the Web UI as a new dataset for retraining the RNN Sentiment Prediction model
 
 ![png](/images/Project7-aiAppOnAWS/UC3b.png)
-   2. User accesses the csv file download endpoint to download prediction results stored in the DynamoDB. This csv file can then be used as a new dataset for retraining the RNN Sentiment Prediction model
+   User accesses the csv file download endpoint to download prediction results stored in the DynamoDB. This csv file can then be used as a new dataset for retraining the RNN Sentiment Prediction model
 
 ## Original Infrastructure (Logical View)
 ![png](/images/Project7-aiAppOnAWS/architecture-orig.png)
@@ -67,16 +67,18 @@ The new AWS cloud infrastructure comes with these benefits:
 ![png](/images/Project7-aiAppOnAWS/depoywf.png)
 - DevOps team merges feature branches to the master branch and pushes to one of the three remote masters
 - Code build - three build paths:
-   1. If the push is onto `ai-frontend` repo, CI/CD Action _*Upload Website*_ automatically runs to upload updated static files (index.html, app.js) to AWS S3 website `udacity-ai-frontend`
-   2. If the push is onto `ai-backend` repo, CI/CD Action _*Deploy to Amazon ECS*_ automatically runs to build a new Flask container to push to the DockerHub, then deploys a new ECS task definition to start container operation on AWS cloud
-   3. If the push is onto `ai-automation` repo, CI/CD Action _*Serverless deployment*_ automatically runs a serverless.yml configuration file to deploy Lambda functions, their triggering events and required infrastructure resources (DynamoDB, API Gateway and S3) to AWS and rebuild the website
+   1. If the push is onto `ai-frontend` repo, CI/CD Action _**Upload Website**_ automatically runs to upload updated static files (index.html, app.js) to AWS S3 website `udacity-ai-frontend`
+   2. If the push is onto `ai-backend` repo, CI/CD Action _**Deploy to Amazon ECS**_ automatically runs to build a new Flask container to push to the DockerHub, then deploys a new ECS task definition to start container operation on AWS cloud
+   3. If the push is onto `ai-automation` repo, CI/CD Action _**Serverless deployment**_ automatically runs a serverless.yml configuration file to deploy Lambda functions, their triggering events and required infrastructure resources (DynamoDB, API Gateway and S3) to AWS and rebuild the website
 
 ## Cloud Infrastruture Operation Workflow
 ![png](/images/Project7-aiAppOnAWS/opswf.png)
 - RNN Sentiment Prediction App Operation
    a. User submits a sentiment prediction request thru website UI and receives a result
+      ```
       - User approves the prediction result, the approved result is written to the DynamoDB
       - User revises the prediction result, the revised result is written to the DynamoDB
+      ```
    b. User downloads prediction results stored in the DynamoDB as a CSV file for use as a new dataset for retraining of the RNN model
    c. Depending on website traffic, AWS ECS and Auto Scaling group orchestrate to scale up to 3 Flask container instances to optimize workload distribution and app response time
 
