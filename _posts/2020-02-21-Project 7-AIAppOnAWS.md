@@ -75,10 +75,8 @@ The new AWS cloud infrastructure comes with these benefits:
 ![png](/images/Project7-aiAppOnAWS/opswf.png)
 - RNN Sentiment Prediction App Operation
    a. User submits a sentiment prediction request thru website UI and receives a result
-      ```
       - User approves the prediction result, the approved result is written to the DynamoDB
       - User revises the prediction result, the revised result is written to the DynamoDB
-      ```
    b. User downloads prediction results stored in the DynamoDB as a CSV file for use as a new dataset for retraining of the RNN model
    c. Depending on website traffic, AWS ECS and Auto Scaling group orchestrate to scale up to 3 Flask container instances to optimize workload distribution and app response time
 
